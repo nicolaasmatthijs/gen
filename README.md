@@ -1,4 +1,1 @@
-gen
-===
-
 Random text generator
